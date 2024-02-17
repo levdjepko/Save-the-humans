@@ -18,7 +18,7 @@ using System.Windows.Threading;
 namespace Save_the_humans
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+w
     /// </summary>
     public partial class MainWindow : Window
     {
